@@ -1,0 +1,2 @@
+Jsons with issues:
+Json_3.txt - Frame 445. Fail with StandardDistance=1,SphereRFactor=1,CarLengthFactor=0.1
